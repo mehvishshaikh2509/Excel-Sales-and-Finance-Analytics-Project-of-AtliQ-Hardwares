@@ -1,4 +1,4 @@
-# Excel Sales and Finance Analytics Project of AtliQ Hardwares Codebasics
+# Excel Sales and Finance Analytics Project of AtliQ Hardwares 
 
 ## Project objective -
 AtliQ Hardware, a top hardware company specializing in PCs, Printers, Mouse, and Computers worldwide, needs to boost sales and improve net gross margins and Profits.
