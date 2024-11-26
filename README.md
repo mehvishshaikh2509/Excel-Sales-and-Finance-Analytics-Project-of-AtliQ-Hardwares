@@ -10,7 +10,7 @@ This project tackles analyzing a huge dataset with over half a million unorganiz
 
 # Task Performed and Insights -
 Project 1: Sales Analysis
-Made a detailed report on customer performance to understand how well they are doing throughout the years. This helps Atliq to keep an eye on their customer sales also how much discounts they should give to the customers.
+- Made a detailed report on customer performance. Compared to how well they are doing throughout the years, also are they able to achieve the target or not? This helps Atliq to keep an eye on their customer sales also how much discounts they should give to the customers. Also made a market performance vs target report which helps to understand in which country or market AtliQ doing business well and in which country they don't.
 
 # Project Details
 In this project, I've crafted a sales report using Excel's powerful pivot tables. This report empowers businesses to optimize customer discounts, streamline negotiations, and identify growth opportunities in new markets.
