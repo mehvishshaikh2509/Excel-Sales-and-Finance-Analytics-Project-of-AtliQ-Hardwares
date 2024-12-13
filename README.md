@@ -7,8 +7,11 @@ Now Sales director doesn't just want the reports or Excel files from different r
 
 ## Table of Contents:
 - [Tools & Technique used](#tools--technique)
+- [My Goal as a Data Analyst](#my-goal-as-a-data-analyst)
 - [Sales Report](#sales-report)
 - [Finance Report](#finance-report)
+- [Technical Skills](#technical-skills)
+- [Soft Skills](#soft-skills)
 
 ## Tools & Technique:
 - Microsoft Excel (v2021)
@@ -18,6 +21,9 @@ Now Sales director doesn't just want the reports or Excel files from different r
 - Data Modelling
 - DAX (Data Analysis Expression)
 - ETL (Extract, Transformation & Load)
+
+## My Goal as a Data Analyst-
+This project tackles analyzing a huge dataset with over half a million unorganized sales records, requiring a lot of effort to organize (ETL). The goal is to find important insights to help AtliQ hardware make smart decisions and track key performance indicators (KPIs). The main aim is to make big improvements in how well the company does, especially in net sales and net gross margin.
 
 ## Sales Report:
 
@@ -48,25 +54,31 @@ This project focuses on assessing the company's financial performance using Exce
 
  + **Create Profit and Loss (P&L) reports by Markets**:<br>
   &rarr; This objective involves generating P&L reports segmented by different markets or geographical regions. By analyzing revenue, costs, and profitability on a market-by-market basis, stakeholders can pinpoint areas of strength and weakness, enabling targeted interventions to optimize performance and maximize profits.<br><br>
-  &rarr; Report: [P&L report by Market](https://github.com/)<br>
-  &rarr; Report: [Gross Margin% by Quarters](https://github.com/)
+  &rarr; Report: [P&L report by Market](https://github.com/mehvishshaikh2509/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P_and_L_Report_by_Market.pdf)<br>
+  &rarr; Report: [Gross Margin% by Quarters](https://github.com/mehvishshaikh2509/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Gross_Margin%25_By_Quarters.pdf)
 
-# My Goal as a Data Analyst-
-This project tackles analyzing a huge dataset with over half a million unorganized sales records, requiring a lot of effort to organize (ETL). The goal is to find important insights to help AtliQ hardware make smart decisions and track key performance indicators (KPIs). The main aim is to make big improvements in how well the company does, especially in net sales and net gross margin.
+- ### Importance of analyzing finance data:
+&rarr; By analyzing financial data, this project facilitates benchmarking against industry peers and previous periods, laying the groundwork for budgeting and forecasting efforts, thus enabling informed financial planning and decision-making.
 
-# Task Performed and Insights -
-Project 1: Sales Analysis
-- Made a detailed report on customer performance. Compared to how well they are doing throughout the years, also are they able to achieve the target or not? This helps Atliq to keep an eye on their customer sales also how much discounts they should give to the customers. Also made a market performance vs target report which helps to understand in which country or market AtliQ doing business well and in which country they don't.
+- ### Role of reports:
+&rarr; Through meticulously crafted reports, this project aligns financial planning with strategic goals, fostering confidence in the organization's financial outlook by presenting key metrics and trends in a clear and digestible format within Excel.
 
-# Project Details 
-In this project, I've crafted a sales report using Excel's powerful pivot tables. This report empowers businesses to optimize customer discounts, streamline negotiations, and identify growth opportunities in new markets.
+## Mastered Technical Skills:
 
-Throughout the journey, I've mastered key skills:
-
+- Proficient in ETL methodology (Extract, Transform, Load) for efficient data processing.
+- Experienced in establishing complex data model relationships with Power Pivot
 - Leveraging pivot tables for insightful analysis
-- Harnessing Power Query to clean up data effectively
-- Navigating basic DAX formulas for data manipulation
+- Skilled in generating comprehensive date tables using Power Query, ensuring accurate time-based analysis.
+- Capable of deriving fiscal months and quarters to align financial reporting with organizational goals.
+- Navigating basic DAX formulas for data manipulation ie. to create calculated columns and measures for advanced analytics.
 - Enhancing data presentation with Conditional Formatting
-- Elevating the visual appeal of reports
 - Deepening understanding of crucial sales metrics
+
+## Soft Skills:  
+- Possesses a strong grasp of Sales and Finance Reports, simplifying complex financial data into practical insights.  
+- Creates visually engaging and user-friendly reports with a focus on stakeholder needs for better understanding.  
+- Streamlines report generation processes through careful optimization, boosting efficiency and output.  
+- Establishes and follows a structured approach for creating report plans, ensuring consistency and dependable results.  
+- Skilled in clearly communicating insights and recommendations based on data analysis.
+      
 Ultimately, this project is about arming businesses with the tools and knowledge to monitor sales, drive improvements, and seize new growth prospects. By dissecting sales data, businesses can pave their path to success in a dynamic market landscape.
