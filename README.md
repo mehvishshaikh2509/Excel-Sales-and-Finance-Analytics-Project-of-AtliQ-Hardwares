@@ -8,6 +8,7 @@ Now Sales director doesn't just want the reports or Excel files from different r
 ## Table of Contents:
 - [Tools & Technique used](#tools--technique)
 - [Sales Report](#sales-report)
+- [Finance Report](#finance-report)
 
 ## Tools & Technique:
 - Microsoft Excel (v2021)
@@ -28,8 +29,23 @@ Sales analytics serves as a crucial tool for businesses, enabling them to contin
 
   + **Conduct a comprehensive comparison between market performance and sales targets:** <br><br>&rarr; This involves analyzing sales data against predefined targets across different market segments. By comparing actual sales figures with set targets, businesses can identify areas of overperformance or underperformance, adjust sales strategies accordingly, and capitalize on opportunities for growth. This comparison enables businesses to make data-driven decisions to optimize sales performance and achieve organizational objectives.<br><br>
   &rarr; Report:&nbsp; _[market performance vs sales targets](https://github.com/mehvishshaikh2509/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Market_Performance_vs_Target_report.pdf)_
-  
-  
+
+- ### Importance of analyzing sales data:
+  &rarr; Analyzing sales data is essential for identifying underlying sales patterns and trends, allowing businesses to understand customer behaviors and preferences better. Moreover, by tracking key performance indicators (KPIs) such as sales conversion rates and customer acquisition costs, businesses can measure their sales effectiveness and optimize their strategies to maximize revenue and market share.
+
+- ### Role of reports:
+  &rarr; Reports generated from sales analytics play a multifaceted role in business operations. They not only help determine effective customer discounts and pricing strategies but also facilitate negotiations with consumers by providing data-driven insights. Furthermore, these reports aid in identifying potential business expansion opportunities in promising countries by analyzing market trends and consumer behavior, enabling businesses to make informed decisions for strategic growth initiatives.
+
+## Finance Report:
+
+- ### Project objective:
+This project focuses on assessing the company's financial performance using Excel, helping with strategic decisions and improving communication with stakeholders by offering clear insights from the data.
+
++ **Create Profit and Loss (P&L) reports by Fiscal Year and Months:** <br>
+  &rarr; This objective entails developing automated reports that summarize financial performance, including revenue and expenses, for each fiscal year. These reports will provide valuable insights into the company's financial health and facilitate strategic decision-making.<br><br>
+  &rarr; Report: [P&L report by FY](https://github.com/)<br>
+  &rarr; Report: [P&L report by Months](https://github.com)
+
 # My Goal as a Data Analyst-
 This project tackles analyzing a huge dataset with over half a million unorganized sales records, requiring a lot of effort to organize (ETL). The goal is to find important insights to help AtliQ hardware make smart decisions and track key performance indicators (KPIs). The main aim is to make big improvements in how well the company does, especially in net sales and net gross margin.
 
