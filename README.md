@@ -10,7 +10,7 @@ Now Sales director doesn't just want the reports or Excel files from different r
 - [My Goal as a Data Analyst](#my-goal-as-a-data-analyst)
 - [Sales Report](#sales-report)
 - [Finance Report](#finance-report)
-- [Technical Skills](#technical-skills)
+- [Technical Skills](#mastered-technical-skills)
 - [Soft Skills](#soft-skills)
 
 ## Tools & Technique:
