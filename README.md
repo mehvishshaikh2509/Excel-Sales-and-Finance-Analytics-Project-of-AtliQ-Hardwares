@@ -43,8 +43,13 @@ This project focuses on assessing the company's financial performance using Exce
 
 + **Create Profit and Loss (P&L) reports by Fiscal Year and Months:** <br>
   &rarr; This objective entails developing automated reports that summarize financial performance, including revenue and expenses, for each fiscal year. These reports will provide valuable insights into the company's financial health and facilitate strategic decision-making.<br><br>
-  &rarr; Report: [P&L report by FY](https://github.com/)<br>
-  &rarr; Report: [P&L report by Months](https://github.com)
+  &rarr; Report: [P&L report by FY](https://github.com/mehvishshaikh2509/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P_and_L_Report_by_FY.pdf)<br>
+  &rarr; Report: [P&L report by Months](https://github.com/mehvishshaikh2509/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P_and_L_Report_By_Months.pdf)
+
+ + **Create Profit and Loss (P&L) reports by Markets**:<br>
+  &rarr; This objective involves generating P&L reports segmented by different markets or geographical regions. By analyzing revenue, costs, and profitability on a market-by-market basis, stakeholders can pinpoint areas of strength and weakness, enabling targeted interventions to optimize performance and maximize profits.<br><br>
+  &rarr; Report: [P&L report by Market](https://github.com/)<br>
+  &rarr; Report: [Gross Margin% by Quarters](https://github.com/)
 
 # My Goal as a Data Analyst-
 This project tackles analyzing a huge dataset with over half a million unorganized sales records, requiring a lot of effort to organize (ETL). The goal is to find important insights to help AtliQ hardware make smart decisions and track key performance indicators (KPIs). The main aim is to make big improvements in how well the company does, especially in net sales and net gross margin.
