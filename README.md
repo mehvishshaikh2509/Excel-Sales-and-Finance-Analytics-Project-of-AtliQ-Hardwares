@@ -10,6 +10,7 @@ Now Sales director doesn't just want the reports or Excel files from different r
 - [My Goal as a Data Analyst](#my-goal-as-a-data-analyst)
 - [Sales Report](#sales-report)
 - [Finance Report](#finance-report)
+- [Business Inquiries](#Business-Inquiries)
 - [Technical Skills](#mastered-technical-skills)
 - [Soft Skills](#soft-skills)
 
@@ -63,6 +64,14 @@ This project focuses on assessing the company's financial performance using Exce
 - ### Role of reports:
 &rarr; Through meticulously crafted reports, this project aligns financial planning with strategic goals, fostering confidence in the organization's financial outlook by presenting key metrics and trends in a clear and digestible format within Excel.
 
+## Business Inquiries:
+Busineaa Inquiries are listed below
+- What are the top 10 products based on the percentage increase in their net sales from 2020 to 2021?
+- Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.
+- Which products are ranked in the top 5 and bottom 5 in terms of quantity sold?
+- What are the new products that Atliq began selling in 2021?
+- What are the top 5 countries in terms of net sales in 2021?
+Business Inquiries answers: [Business Inquiries Solution](https://github.com)
 ## Mastered Technical Skills:
 
 - Proficient in ETL methodology (Extract, Transform, Load) for efficient data processing.
