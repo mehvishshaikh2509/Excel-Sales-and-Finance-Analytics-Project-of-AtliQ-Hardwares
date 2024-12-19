@@ -71,7 +71,7 @@ Busineaa Inquiries are listed below
 - Which products are ranked in the top 5 and bottom 5 in terms of quantity sold?
 - What are the new products that Atliq began selling in 2021?
 - What are the top 5 countries in terms of net sales in 2021?
-Business Inquiries answers: [Business Inquiries Solution](https://github.com)
+Business Inquiries answers: [Business Inquiries Solution](https://github.com/mehvishshaikh2509/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Business_Inquiries.pdf)
 ## Mastered Technical Skills:
 
 - Proficient in ETL methodology (Extract, Transform, Load) for efficient data processing.
